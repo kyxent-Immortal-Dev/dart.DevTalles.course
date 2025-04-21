@@ -1,4 +1,4 @@
 
-# curso basico de dart
+# curso completo de dart
 
 # dev talles 
